@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Email: <a href="mailto:g.haihao@wustl.edu">g.haihao@wustl.edu</a></p>
-    <!-- <p>CV: <a href="https://wustl.box.com/s/cgzaqn97zbtusm9atlhn9u034yfpfzbr" target="_blank" rel="noopener">2025.11.06</a></p> -->
+    <p>CV: <a href="https://wustl.box.com/s/pcvlfb2qz6xsujld4b0alsdeaozdvq6h" target="_blank" rel="noopener">CV</a></p>
 social: false # includes social icons at the bottom of the page
 
 announcements:
@@ -26,4 +26,4 @@ My <a href="{{ '/research/' | relative_url }}">research</a> studies product deve
 
 Outside academia, I am an avid neo-soul and jazz enthusiast. I primarily play jazz guitar and regularly perform with the WashU Jazz Band.
 
-<!-- **I am on the 2026-2027 academic job market for a tenure-track position.** -->
+**I am on the 2026-2027 academic job market for a tenure-track position.**
