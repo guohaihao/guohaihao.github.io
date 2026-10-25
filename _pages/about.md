@@ -10,15 +10,13 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Email: <a href="mailto:g.haihao@wustl.edu">g.haihao@wustl.edu</a></p>
-    <p>CV: <a href="https://wustl.box.com/s/pcvlfb2qz6xsujld4b0alsdeaozdvq6h" target="_blank" rel="noopener">CV</a></p>
+    <p>CV: <a href="https://wustl.box.com/s/4jgiu8mzgvhkozxgnfxs60a1ccljv3o7" target="_blank" rel="noopener">CV</a></p>
 social: false # includes social icons at the bottom of the page
-
 announcements:
   enabled: false
   scrollable: false
   limit: 1
 ---
-
 
 I am a Ph.D. candidate in Quantitative Marketing at Washington University in St. Louis. I am advised by Professor <a href="https://olin.washu.edu/faculty/seethu-seetharaman" target="_blank" rel="noopener">Seethu Seetharaman</a>, Professor <a href="https://olin.washu.edu/faculty/baojun-jiang" target="_blank" rel="noopener">Baojun Jiang</a>, and Professor <a href="https://olin.washu.edu/faculty/yingkang-xie" target="_blank" rel="noopener">Yingkang Xie</a>.
 
