@@ -77,8 +77,7 @@ My work combines economics, statistics, and multi-modal machine learning to unde
     </details>
   </li>
   <li>
-    <strong>The Science We Miss: AI for Connecting Ideas and Researchers across Communities</strong>
-    (with Jino Lu, Yingkang Xie, Nick Argyres, and Seethu Seetharaman)
+    <strong>Haihao Guo</strong>, Jino Lu, Yingkang Xie, Nick Argyres, and Seethu Seetharaman. “The Science We Miss: AI for Connecting Ideas and Researchers across Communities.”
     <div style="margin-top: 0.5rem;">Submitted to <strong>Organization Science</strong>.</div>
   </li>
 </ol>
